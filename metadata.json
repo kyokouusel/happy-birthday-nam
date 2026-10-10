@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Candles & Open When Letters",
+  "description": "Interactive pixel art birthday cake to blow out candles, plus Open When Letters to read personal heartfelt notes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
